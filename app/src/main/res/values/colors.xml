@@ -1,0 +1,16 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="DarkOrange">#cd6200</color>
+    <color name="Orange">#F57C00</color>
+    <color name="LightOrange">#FF9800</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Gray">#F5F5F5</color>
+    <color name="DarkGray">#E0E0E0</color>
+    <color name="Black">#000000</color>
+
+
+
+
+
+</resources>
