@@ -167,4 +167,8 @@ public class MainActivity extends AppCompatActivity {
 /*
 https://icons8.com/web-app/for/androidL/travel
 https://www.google.com/design/spec/style/icons.html
+
+** GitHub:
+https://www.londonappdeveloper.com/how-to-use-git-hub-with-android-studio/
+https://guides.github.com/introduction/flow/
  */
